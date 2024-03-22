@@ -5,9 +5,9 @@
     "passes": 0,
     "pending": 0,
     "failures": 9,
-    "start": "2024-03-21T02:02:36.009Z",
-    "end": "2024-03-21T02:02:36.394Z",
-    "duration": 385
+    "start": "2024-03-22T11:20:49.289Z",
+    "end": "2024-03-22T11:20:49.677Z",
+    "duration": 388
   },
   "tests": [
     {
@@ -61,7 +61,7 @@
     {
       "title": "returns \"Ok, sounds good.\" when the city is NYC",
       "fullTitle": "index.js ternaryCheckCity() returns \"Ok, sounds good.\" when the city is NYC",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "expected undefined to equal 'Ok, sounds good.'",
@@ -73,7 +73,7 @@
     {
       "title": "should return \"No go.\" if the destination city is not NYC",
       "fullTitle": "index.js ternaryCheckCity() should return \"No go.\" if the destination city is not NYC",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "expected undefined to equal 'No go.'",
@@ -172,7 +172,7 @@
     {
       "title": "returns \"Ok, sounds good.\" when the city is NYC",
       "fullTitle": "index.js ternaryCheckCity() returns \"Ok, sounds good.\" when the city is NYC",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "expected undefined to equal 'Ok, sounds good.'",
@@ -184,7 +184,7 @@
     {
       "title": "should return \"No go.\" if the destination city is not NYC",
       "fullTitle": "index.js ternaryCheckCity() should return \"No go.\" if the destination city is not NYC",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "expected undefined to equal 'No go.'",
